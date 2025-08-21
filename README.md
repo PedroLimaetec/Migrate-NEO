@@ -30,7 +30,7 @@ Primeiro conecte o banco de dados através do arquivo .env (lembre-se de criar o
 
 <img width="1097" height="313" alt="image" src="https://github.com/user-attachments/assets/c44fca60-d0b6-42e0-8bfe-676bfa0d9e15" />
 
-
+O que sobra no PhpMyAdmin
 
 ![](prints-processo/print%2012.png)
 
