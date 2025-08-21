@@ -1,4 +1,4 @@
-# Atividade PW - Migration com Primary Key e Foreign Key
+
 ## Criação do Projeto
 Primeiro foi necessário executar o seguinte comando para a instalação do Laravel/criação do projeto
 ![](prints-processo/print%201.png)
