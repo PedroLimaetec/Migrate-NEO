@@ -29,7 +29,6 @@ Primeiro conecte o banco de dados através do arquivo .env (lembre-se de criar o
 ![](prints-processo/print%2010.png)
 
 
-![](prints-processo/print%2011.png)
 
 ![](prints-processo/print%2012.png)
 
