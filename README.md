@@ -13,7 +13,7 @@ Primeiro conecte o banco de dados através do arquivo .env (lembre-se de criar o
 
 
 
-![](prints-processo/print%205.png)
+<img width="505" height="215" alt="image" src="https://github.com/user-attachments/assets/e427ae32-b816-4d51-b852-11b5dcfce955" />
 
 
 ![](prints-processo/print%206.png)
