@@ -22,7 +22,7 @@ Primeiro conecte o banco de dados através do arquivo .env (lembre-se de criar o
 
 <img width="827" height="333" alt="image" src="https://github.com/user-attachments/assets/caed8f00-17c5-40e9-b69c-6f7d706d6c55" />
 
-![](prints-processo/print%208.png)
+<img width="1189" height="129" alt="image" src="https://github.com/user-attachments/assets/563396f4-4e19-4128-8d60-0c1f73c6aade" />
 
 
 ![](prints-processo/print%209.png)
