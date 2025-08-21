@@ -3,8 +3,6 @@
 Primeiro foi necessário executar o seguinte comando para a instalação do Laravel/criação do projeto
 ![](prints-processo/print%201.png)
 
-### Importante! É preciso iniciar o Apache e o MySQL no Xampp
-![](prints-processo/print%202.png)
 
 ## Migrations
 Primeiro conecte o banco de dados através do arquivo .env (lembre-se de criar o banco de dados no phpMyAdmin)
